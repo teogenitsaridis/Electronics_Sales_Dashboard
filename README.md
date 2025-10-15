@@ -70,9 +70,51 @@ The Excel workbook contains the following sheets:
 ---
 
 ## 🧩 How to Use
-1. Open the Excel file: `Sales_Dashboard.xlsx`  
+1. Open the Excel file: `Electronics_Shop_Sales_Dashboard.xlsx`  
 2. Explore each sheet (Customers, Orders, Products, Profit_Table).  
 3. Go to the **Sales Dashboard** tab to interact with the visual analytics.  
 4. Use slicers and filters to customize the data view.  
+
+
+
+## 📂 Raw Data Samples
+
+### Customers
+<p align="center">
+  <img src="images/customers.png" alt="Customers Sample" width="600"/>
+</p>
+
+### Orders
+<p align="center">
+  <img src="images/orders.png" alt="Orders Sample" width="600"/>
+</p>
+
+### Products
+<p align="center">
+  <img src="images/products.png" alt="Products Sample" width="600"/>
+</p>
+
+
+
+### Dashboard Overview
+The interactive dashboard summarizes key performance indicators (KPIs) such as **Total Sales**, **Total Profit**, **Profit Margin**, and **Top Products**.  
+It allows dynamic filtering by **product category, region, and time period** using slicers.
+
+<p align="center">
+  <img src="images/dashboard.png" alt="Dashboard Screenshot" width="600"/>
+</p>
+
+### Sales Table
+The Sales Table aggregates all transactions and profits, giving a detailed view of **sales performance per order and product**.  
+It helps identify trends and high-performing products.
+
+<p align="center">
+  <img src="images/sales_table.png" alt="Sales Table Screenshot" width="600"/>
+</p>
+
+
+<br>
+
+> Note: Each table contains ~1000 entries; screenshots show only the first 30–50 rows.
 
 
