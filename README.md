@@ -7,6 +7,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Electronics%20Sales%20Dashboard%20%7C%20Excel%20Analytics-blueviolet?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Dashboard Badge"/>
+</p>
 
 
 
